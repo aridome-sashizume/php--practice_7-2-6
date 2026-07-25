@@ -14,5 +14,6 @@ PHOを用いた成績判定システムです。
 -PHPが引数指定を型指定しなければ、プログラムが自動的に型を読み取って処理を行う
 
 ## 動作確認
-dockerでサーバを立ち上げた状態で、以下のURLを開く
+dockerを用いてWSL2のサーバを設定し、localhost:8000のポートを開く <br>
+その上で以下でWebページにアクセスする。 <br>
 http://localhost:8000/7-2-6_hands_on/practice/grade_calculator.php
